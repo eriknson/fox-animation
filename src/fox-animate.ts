@@ -7,8 +7,8 @@ const noise = createNoise4D()
 const K_POS_DAMPING = 0.8
 const K_ROT_DAMPING = 0.4
 
-const K_POS_RECOVER = 0.12
-const K_ROT_RECOVER = 0.04
+const K_POS_RECOVER = 0.1
+const K_ROT_RECOVER = 0.1
 
 const NOISE_MAG = 8
 const NOISE_SCALE = 0.005
