@@ -7,7 +7,7 @@ import * as raycastTri from 'watertight-ray-triangle-intersection'
 import { mat3, vec3 } from 'gl-matrix'
 
 // size of boxes to chop fox into
-const CUBE_DIAMETER = 16
+const CUBE_DIAMETER = 24
 
 // fox precision
 const FOX_PRECISION = 6
