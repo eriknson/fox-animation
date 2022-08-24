@@ -10,10 +10,10 @@ if (container) {
       phi={0}
       theta={Math.PI / 2}
       distance={800}
-      hemisphereAxis={[0.1, 1, 0.2]}
+      hemisphereAxis={[0.1, 0.5, 0.2]}
       hemisphereColor1={[1, 1, 1]}
-      hemisphereColor0={[0.5, 0.5, 0.5]}
-      fogColor={[1, 1, 1]}
+      hemisphereColor0={[1, 1, 1]}
+      fogColor={[0.5, 0.5, 0.5]}
       interiorColor0={[1, 0.5, 0]}
       interiorColor1={[0.5, 0.2, 0]}
       noGLFallback={<div>WebGL not supported :(</div>}
